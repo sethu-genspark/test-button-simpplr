@@ -10,6 +10,10 @@
   "files": [
     "dist"
   ],
+  "repository": {
+    "type": "git",
+    "url":"https://github.com/sethu-genspark/test-button-simpplr"
+  },
   "types": "dist/index.d.ts",
   "scripts": {
     "rollup": "rollup -c --bundleConfigAsCjs"
